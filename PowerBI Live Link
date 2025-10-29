@@ -1,18 +1,26 @@
-# 🎯 Live Power BI Dashboard
+# 🎯 Power BI Dashboard Access Instructions
 
-## Interactive Dashboard Link:
-https://pragatiengg-my.sharepoint.com/:u:/g/personal/22a31a4292_pragati_ac_in/EbHOB5yf37BFuh-6wvmefH0BNHe4HNjUcxUbenttHwLfpg?e=98OzOV
+## 📋 Important Notice
+*Due to institutional restrictions on Power BI sharing, please use the download option below. The dashboard is fully functional in Power BI Desktop.*
 
-## Dashboard Features:
-- 4 professional dashboard pages
-- 6 complex analytical tasks implemented
-- Time-based visibility controls
-- Dynamic filtering and interactive elements
+## 📁 Download & Setup Instructions
 
-## Access Instructions:
-1. Click the link above
-2. The dashboard will open in your browser
-3. No login required - publicly accessible
-4. All features are fully functional
+### **Step 1: Download Dashboard File**
+[Click here to download Twitter_Analytics_Dashboard.pbix](Twitter_Analytics_Dashboard.pbix)
 
-*Note: Some visuals are time-sensitive and only appear during specified hours (IST)*
+### **Step 2: Open & Explore**
+1. Open the downloaded .pbix file with Power BI Desktop
+2. **All interactive features are fully functional:**
+   - Time-based visibility filters
+   - Dynamic status messaging
+   - Complex filtering logic
+   - Professional visualizations
+
+## 🕒 Time-Based Features Note
+*Some visuals are time-sensitive (appear only during specific IST hours). To test all features, you may need to adjust your system time or check during active hours.*
+
+## 📊 Dashboard Features Preview
+- **4 Professional Pages** with intuitive navigation
+- **6 Complex Analytical Tasks** fully implemented
+- **27+ Advanced Filters** with business logic
+- **Dynamic Status Messaging** for user guidance
