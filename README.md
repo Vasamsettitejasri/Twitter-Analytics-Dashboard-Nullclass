@@ -1,4 +1,4 @@
-# 🐦 Twitter Analytics Dashboard - Power BI | Nullclass Internship
+# Twitter Analytics Dashboard - Power BI | Nullclass Internship
 
 ## 🌟 Project Overview
 A comprehensive **Real-Time Twitter Analytics Dashboard** developed as part of the **Data Analyst Internship** at **Nullclass**. This project demonstrates advanced Power BI capabilities by implementing six complex analytical tasks that transform raw Twitter engagement data into actionable business intelligence.
